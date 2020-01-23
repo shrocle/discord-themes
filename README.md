@@ -1,3 +1,6 @@
+![Star Wars theme preview](https://raw.githubusercontent.com/belgianGeek/discord-themes/master/screeenshots/starWars.JPG)
+_Pretty nice, uh ?_ :innocent:
+
 # How to install and use the themes
 
 This project's themes use _Betterdiscord_, a piece of software allowing you to extend the features of your Discord client with plugins (you can for example quote messages, encrypt channels...) and themes (like this project).
